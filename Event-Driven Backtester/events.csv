@@ -1,0 +1,111 @@
+date,event_type,label,description
+2001-09-17,GEOPOLITICAL,9/11 Aftermath,Markets reopen after 9/11 attacks
+2001-12-13,GEOPOLITICAL,Parliament Attack,Attack on Indian Parliament
+2002-02-28,BUDGET,Budget FY03,Union Budget FY2002-03
+2003-02-28,BUDGET,Budget FY04,Union Budget FY2003-04
+2003-03-20,GEOPOLITICAL,Iraq War Begin,US invades Iraq
+2004-02-03,BUDGET,Budget FY05,Union Budget FY2004-05
+2004-05-13,ELECTION,Lok Sabha 2004,UPA election surprise win - market circuit breaker
+2005-02-28,BUDGET,Budget FY06,Union Budget FY2005-06
+2006-02-28,BUDGET,Budget FY07,Union Budget FY2006-07
+2006-05-18,MARKET_CRASH,May 2006 Crash,Global sell-off - SENSEX fell 826 pts in a day
+2007-02-28,BUDGET,Budget FY08,Union Budget FY2007-08
+2008-01-21,MARKET_CRASH,Global Crisis Begin,SENSEX fell 1408 pts - global recession fears
+2008-02-29,BUDGET,Budget FY09,Union Budget FY2008-09
+2008-09-15,MARKET_CRASH,Lehman Collapse,Lehman Brothers files bankruptcy
+2008-10-10,MARKET_CRASH,Lehman Aftershock,Worst week of global financial crisis
+2008-10-24,MARKET_CRASH,Global Crash Bottom,SENSEX near 2008 lows
+2009-02-16,BUDGET,Budget FY10,Interim Union Budget FY2009-10
+2009-05-18,ELECTION,Lok Sabha 2009,UPA re-election - SENSEX upper circuit
+2009-07-06,BUDGET,Budget FY10 Full,Full Union Budget FY2009-10
+2010-02-26,BUDGET,Budget FY11,Union Budget FY2010-11
+2011-02-28,BUDGET,Budget FY12,Union Budget FY2011-12
+2011-08-08,MARKET_CRASH,US Downgrade,S&P downgrades US AAA rating
+2012-03-16,BUDGET,Budget FY13,Union Budget FY2012-13
+2013-02-28,BUDGET,Budget FY14,Union Budget FY2013-14
+2013-05-22,MARKET_CRASH,Taper Tantrum,Bernanke hints at QE tapering - EM selloff
+2014-02-17,BUDGET,Budget FY15 Interim,Interim Union Budget FY2014-15
+2014-05-16,ELECTION,Lok Sabha 2014,BJP landslide - SENSEX all-time high
+2014-07-10,BUDGET,Budget FY15 Full,Full Union Budget FY2014-15
+2015-02-28,BUDGET,Budget FY16,Union Budget FY2015-16
+2015-08-24,MARKET_CRASH,China Devaluation,Yuan devaluation - global Black Monday
+2016-02-29,BUDGET,Budget FY17,Union Budget FY2016-17
+2016-11-08,MACRO_DATA,Demonetisation,PM Modi announces demonetisation of 500/1000 notes
+2016-12-15,US_FED,Fed Hike Dec16,US Fed hikes rates 25bps - first hike in a year
+2017-01-31,RBI_MPC,RBI MPC Feb17,RBI MPC - rates kept on hold post-demonetisation
+2017-02-01,BUDGET,Budget FY18,Union Budget FY2017-18 (moved to Feb 1)
+2017-04-06,RBI_MPC,RBI MPC Apr17,RBI MPC rate decision
+2017-06-07,RBI_MPC,RBI MPC Jun17,RBI MPC rate decision
+2017-08-02,RBI_MPC,RBI MPC Aug17,RBI MPC rate decision
+2017-10-04,RBI_MPC,RBI MPC Oct17,RBI MPC rate decision
+2017-12-06,RBI_MPC,RBI MPC Dec17,RBI MPC rate decision
+2018-02-01,BUDGET,Budget FY19,Union Budget FY2018-19 (LTCG tax shock)
+2018-02-07,RBI_MPC,RBI MPC Feb18,RBI MPC rate decision
+2018-04-05,RBI_MPC,RBI MPC Apr18,RBI MPC rate decision
+2018-06-06,RBI_MPC,RBI MPC Jun18,RBI MPC rate hike 25bps
+2018-08-01,RBI_MPC,RBI MPC Aug18,RBI MPC rate hike 25bps
+2018-10-05,RBI_MPC,RBI MPC Oct18,RBI MPC rate decision - IL&FS crisis period
+2018-12-05,RBI_MPC,RBI MPC Dec18,RBI MPC rate decision
+2018-09-21,MARKET_CRASH,NBFC Crisis,IL&FS default triggers NBFC liquidity crisis
+2019-02-01,BUDGET,Budget FY20 Interim,Interim Union Budget FY2019-20
+2019-02-07,RBI_MPC,RBI MPC Feb19,RBI MPC rate cut 25bps
+2019-02-14,GEOPOLITICAL,Pulwama Attack,Pulwama terror attack - India-Pakistan tension spike
+2019-04-04,RBI_MPC,RBI MPC Apr19,RBI MPC rate cut 25bps
+2019-05-23,ELECTION,Lok Sabha 2019,BJP re-election with bigger majority
+2019-06-06,RBI_MPC,RBI MPC Jun19,RBI MPC rate cut 25bps
+2019-07-05,BUDGET,Budget FY20 Full,Full Union Budget FY2019-20 (surcharge on FPIs)
+2019-08-07,RBI_MPC,RBI MPC Aug19,RBI MPC rate cut 35bps (unusual)
+2019-09-20,MACRO_DATA,Corp Tax Cut,Corporate tax cut to 22% announced - SENSEX +5% single day
+2019-10-04,RBI_MPC,RBI MPC Oct19,RBI MPC rate cut 25bps
+2019-12-05,RBI_MPC,RBI MPC Dec19,RBI MPC rate on hold
+2020-02-01,BUDGET,Budget FY21,Union Budget FY2020-21 (new tax regime introduced)
+2020-02-06,RBI_MPC,RBI MPC Feb20,RBI MPC rate on hold
+2020-03-04,RBI_MPC,RBI MPC Mar20 Emergency,Emergency RBI rate cut 75bps - COVID
+2020-03-12,MARKET_CRASH,COVID Crash,WHO declares COVID-19 pandemic - global markets crash
+2020-03-23,MARKET_CRASH,COVID Bottom,SENSEX/NIFTY near COVID lows - lower circuits
+2020-03-24,GEOPOLITICAL,COVID Lockdown,India announces 21-day national lockdown
+2020-05-22,RBI_MPC,RBI MPC May20,RBI MPC emergency cut 40bps
+2020-08-06,RBI_MPC,RBI MPC Aug20,RBI MPC rate on hold
+2020-10-09,RBI_MPC,RBI MPC Oct20,RBI MPC rate on hold
+2020-12-04,RBI_MPC,RBI MPC Dec20,RBI MPC rate on hold
+2021-02-01,BUDGET,Budget FY22,Union Budget FY2021-22 (capex boost - market surged)
+2021-02-05,RBI_MPC,RBI MPC Feb21,RBI MPC rate on hold - accommodative
+2021-04-07,RBI_MPC,RBI MPC Apr21,RBI MPC rate on hold - COVID 2nd wave
+2021-06-04,RBI_MPC,RBI MPC Jun21,RBI MPC rate on hold
+2021-08-06,RBI_MPC,RBI MPC Aug21,RBI MPC rate on hold
+2021-10-08,RBI_MPC,RBI MPC Oct21,RBI MPC rate on hold (CRR normalisation)
+2021-12-08,RBI_MPC,RBI MPC Dec21,RBI MPC rate on hold (VRRR hike signal)
+2022-02-01,BUDGET,Budget FY23,Union Budget FY2022-23 (infra capex + crypto tax)
+2022-02-10,RBI_MPC,RBI MPC Feb22,RBI MPC rate on hold
+2022-02-24,GEOPOLITICAL,Russia Ukraine War,Russia invades Ukraine - global commodity shock
+2022-04-08,RBI_MPC,RBI MPC Apr22,RBI MPC rate on hold (surprise - no hike despite inflation)
+2022-05-04,RBI_MPC,RBI MPC May22 Emergency,Emergency off-cycle hike 40bps - inflation shock
+2022-06-08,RBI_MPC,RBI MPC Jun22,RBI MPC rate hike 50bps
+2022-06-15,US_FED,Fed Hike Jun22,US Fed hikes 75bps - largest since 1994
+2022-08-05,RBI_MPC,RBI MPC Aug22,RBI MPC rate hike 50bps
+2022-09-21,US_FED,Fed Hike Sep22,US Fed hikes 75bps third consecutive
+2022-09-30,RBI_MPC,RBI MPC Sep22,RBI MPC rate hike 50bps
+2022-11-02,US_FED,Fed Hike Nov22,US Fed hikes 75bps fourth consecutive
+2022-12-07,RBI_MPC,RBI MPC Dec22,RBI MPC rate hike 35bps
+2023-02-01,BUDGET,Budget FY24,Union Budget FY2023-24 (capex at 10L cr + income tax slab revamp)
+2023-02-08,RBI_MPC,RBI MPC Feb23,RBI MPC rate hike 25bps (last hike of cycle)
+2023-02-01,MACRO_DATA,Adani Crisis,Hindenburg report on Adani Group - massive sell-off
+2023-04-06,RBI_MPC,RBI MPC Apr23,RBI MPC rate on hold (surprise pause)
+2023-06-08,RBI_MPC,RBI MPC Jun23,RBI MPC rate on hold
+2023-08-10,RBI_MPC,RBI MPC Aug23,RBI MPC rate on hold
+2023-10-06,RBI_MPC,RBI MPC Oct23,RBI MPC rate on hold
+2023-12-08,RBI_MPC,RBI MPC Dec23,RBI MPC rate on hold
+2024-02-01,BUDGET,Budget FY25 Interim,Interim Union Budget FY2024-25
+2024-02-08,RBI_MPC,RBI MPC Feb24,RBI MPC rate on hold
+2024-04-05,RBI_MPC,RBI MPC Apr24,RBI MPC rate on hold
+2024-04-19,GEOPOLITICAL,Iran Israel Attack,Iran launches drone attack on Israel - geopolitical risk spike
+2024-06-04,ELECTION,Lok Sabha 2024,BJP NDA election - lower-than-expected majority shock
+2024-06-07,RBI_MPC,RBI MPC Jun24,RBI MPC rate on hold
+2024-07-23,BUDGET,Budget FY25 Full,Full Union Budget FY2024-25 (LTCG hiked to 12.5%)
+2024-08-08,RBI_MPC,RBI MPC Aug24,RBI MPC rate on hold
+2024-08-05,MARKET_CRASH,Yen Carry Unwind,Japan BOJ hike triggers global yen carry trade unwind
+2024-10-09,RBI_MPC,RBI MPC Oct24,RBI MPC rate on hold (CRR cut signal)
+2024-12-06,RBI_MPC,RBI MPC Dec24,RBI MPC rate cut 25bps - first cut since 2020
+2025-02-01,BUDGET,Budget FY26,Union Budget FY2025-26 (income tax nil up to 12L)
+2025-02-07,RBI_MPC,RBI MPC Feb25,RBI MPC rate cut 25bps
+2025-04-09,US_FED,Trump Tariff Pause,Trump pauses reciprocal tariffs - global relief rally
